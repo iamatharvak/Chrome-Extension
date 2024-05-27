@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    align-items: center;
+    min-width: 400px;
+
+}
+input {
+    border-color: green;
+    padding-left: 10px;
+    padding-right: 10px;
+    width:max-content;
+    margin-right: 5px;
+
+}
+
+button {
+    border-color: green;
+    padding: 3px;
+    background-color: brown;
+    color: lightblue;
+}
+ul{
+    color: chartreuse;
+    /* background-color: tomato; */
+}
+li{
+    color: greenyellow;
+}
+a{
+    color: orange;
+}
